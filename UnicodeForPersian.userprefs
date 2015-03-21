@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnicodeForPersian/Properties/Resources.resx">
+    <Files>
+      <File FileName="UnicodeForPersian/Form1.cs" Line="12" Column="2" />
+      <File FileName="UnicodeForPersian/Form1.Designer.cs" Line="40" Column="35" />
+      <File FileName="UnicodeForPersian/Form1.resx" Line="13" Column="13" />
+      <File FileName="UnicodeForPersian/Properties/Resources.resx" Line="13" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="UnicodeForPersian" expanded="True">
+            <Node name="Properties" expanded="True">
+              <Node name="Resources.resx" expanded="True" selected="True" />
+            </Node>
+            <Node name="Form1.cs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
