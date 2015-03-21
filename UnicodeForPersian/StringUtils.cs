@@ -6,7 +6,7 @@ namespace Utils
 {
     public static class StringUtils
     {
-        public static string ConvertToMultiLine(String text, int min = 30, int max = 40)
+        public static string ConvertToMultiLine(String text, int min = 40, int max = 50)
         {
             if (text.Trim() == "")
                 return text;

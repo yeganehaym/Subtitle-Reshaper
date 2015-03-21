@@ -14,7 +14,7 @@ namespace UnicodeForPersian
     {
         private BackgroundWorker checkUpdates;
         private Timer netconnectiontimer;
-        private float version = 1f;
+        private float version = 1.1f;
 
         public Form1()
         {
@@ -132,7 +132,7 @@ namespace UnicodeForPersian
                 string converted = Services.ToUnicode(subtitle);
 
                 File.Copy(filename, ChangeFileName(filename,"_Orig"),true);
-                File.WriteAllText(filename, converted, Encoding.Unicode);
+                File.WriteAllText(filename, converted, Encoding.UTF8);
 
             }
         }
